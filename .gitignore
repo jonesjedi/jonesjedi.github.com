@@ -1,4 +1,6 @@
 _site/*
+_plugins/*
+_includes/*
 
 Thumbs.db
 .DS_Store
